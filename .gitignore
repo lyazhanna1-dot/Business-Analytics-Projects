@@ -1,0 +1,186 @@
+# ============================
+# ОС и редакторы
+# ============================
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+
+
+# ============================
+# Power BI
+# ============================
+
+# Бинарные файлы дашбордов (тяжёлые, содержат данные)
+*.pbix
+*.pbit
+
+# Резервные копии
+*.pbix.bak
+*.pbit.bak
+
+# Временные файлы
+DataModelSchema/
+*.pbix.asdatabase
+*.pbix.layout
+*.pbix.settings
+*.pbix.report
+*.pbix.semanticModel
+*.pbix.sharedAssets
+
+
+# ============================
+# Tableau
+# ============================
+
+# Извлечённые данные (очень тяжёлые!)
+*.tde
+*.hyper
+
+# Резервные копии
+*.twb.bak
+*.twbx.bak
+*.tds.bak
+*.tdsx.bak
+
+# Временные файлы
+Workbook.xml
+*.psproj
+
+
+# ============================
+# Loginom
+# ============================
+
+# Проекты и датасеты (бинарные, тяжёлые)
+*.lprj
+*.lprj.bak
+*.lds
+*.lds.bak
+*.lflow
+*.lflow.bak
+
+# Кэш и временные файлы
+loginom_cache/
+*.lcache
+*.llog
+
+# Конфигурации с подключениями (могут содержать пароли!)
+connections.xml
+*.lconn
+
+# Логи выполнения
+*.log
+
+
+# ============================
+# Datalens (Яндекс)
+# ============================
+
+# Экспорты дашбордов (бинарные)
+*.ydd
+*.ydd.json
+
+# Временные файлы
+datalens_cache/
+
+
+# ============================
+# Python (если используешь скрипты)
+# ============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.pyre/
+.ropeproject/
+
+
+# ============================
+# Секреты и чувствительные данные — ЗАПРЕЩЕНО коммитить!
+# ============================
+
+# Переменные окружения
+.env
+.env.local
+.env.*.local
+
+# Ключи и сертификаты
+*.pem
+*.key
+*.crt
+*.cert
+*.p12
+*.pfx
+
+# Файлы с кредами
+credentials.json
+credentials.yaml
+secrets.json
+secrets.yaml
+config.local
+config.*.json
+config.*.yaml
+
+# История командной строки (может содержать пароли!)
+.bash_history
+.zsh_history
+
+
+# ============================
+# Прочее
+# ============================
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Сборки и артефакты
+dist/
+build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.class
+*.jar
+
+# Архивы
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
