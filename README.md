@@ -2,8 +2,8 @@
 
 Привет! Я **Жанна** — аналитик данных и проектный менеджер, специализируюсь на превращении сырых данных в понятные бизнес-инсайты через визуализацию и автоматизацию отчётности.
 
-[![Телеграм](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![Почта](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ваша_почта@example.com)
+[![Телеграм](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Zhannna74)
+[![Почта](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyazhanna@yandex.ru)
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Напишите мне:**
 - 💬 Telegram: [@Zhannna74]
-- 📧 Почта: lyazhanna1@gmail.com
+- 📧 Почта: lyazhanna@yandex.ru
 
 ---
 
